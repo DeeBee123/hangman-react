@@ -1,0 +1,20 @@
+@import './styles/base/';
+$letter-color: #fff;
+$card-color: #b5838d;
+$hangman-color: #6d6875;
+$category-bg: #ffb4a2;
+$category-color: #ffcdb2;
+$page-color: #e5989b;
+
+.sides{
+  display: flex;
+  align-items: center;
+}
+.category-name {
+  padding: 20px 50px;
+  text-align: center;
+  background-color: $darkblue;
+  color: $white;
+  font-size: $font-size-30;
+  font-weight: 700;
+}

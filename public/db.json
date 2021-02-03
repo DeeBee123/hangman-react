@@ -1,0 +1,68 @@
+{
+    "aircraft": [
+        {
+            "id": 1,
+            "word": "helicopter"
+        },
+        {
+            "id": 2,
+            "word": "airplane"
+        },
+        {
+            "id": 3,
+            "word": "glider"
+        },
+        {
+            "id": 4,
+            "word": "aileron"
+        },
+        {
+            "id": 5,
+            "word": "monoplane"
+        },
+        {
+            "id": 6,
+            "word": "ornithopter"
+        }
+    ],
+    "watercraft": [
+        {
+            "id": 7,
+            "word": "submarine"
+        },
+        {
+            "id": 8,
+            "word": "lifeboat"
+        },
+        {
+            "id": 9,
+            "word": "paddle board"
+        },
+        {
+            "id": 10,
+            "word": "catamaran"
+        },
+        {
+            "id": 11,
+            "word": "yacht"
+        }
+    ],
+    "spacecraft": [
+        {
+            "id":12,
+            "word": "spaceplane"
+        },
+        {
+            "id":13,
+            "word": "orbiter"
+        },
+        {
+            "id":14,
+            "word": "satellite"
+        },
+        {
+            "id":15,
+            "word": "space capsule"
+        }
+    ]
+}
